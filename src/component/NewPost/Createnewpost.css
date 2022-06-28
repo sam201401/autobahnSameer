@@ -1,0 +1,10 @@
+
+.create-post {
+  width: 80%;
+  margin: 0 auto;
+}
+input[type="text"],
+textarea {
+  
+  padding: 0.9rem 0.1rem;
+}
